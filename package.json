@@ -1,0 +1,17 @@
+{
+  "name": "vite-hex-loader",
+  "author": "stagas",
+  "version": "1.0.0",
+  "description": "Raw hex loader for Vite.",
+  "license": "AGPLv3",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo ok"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "ambient-dts": "github:stagas/ambient-dts",
+    "vite": "^5.3.4"
+  }
+}
